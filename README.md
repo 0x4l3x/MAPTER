@@ -1,4 +1,4 @@
-# Master's thesis - MAPTER: Mapping APTs through Embedding Representation
+# Master thesis - MAPTER: Mapping APTs through Embedding Representation
 
 ## Overview
 
