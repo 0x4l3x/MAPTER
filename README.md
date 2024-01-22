@@ -1,5 +1,9 @@
 # MAPTER: Mapping APTs through Embedding Representation
 
+## Overview
+
+MAPTER (Mapping APTs through Embedding Representation) is a modular framework developed to address the challenges posed by Advanced Persistent Threats (APTs) in cybersecurity. APTs demand innovative approaches for effective detection and analysis, and MAPTER leverages machine learning-based binary code similarity detection to enhance understanding and enable defense measures against APTs.
+
 ## Abstract
 
 Advanced Persistent Threats (APTs) present formidable challenges in the realm of cybersecurity, necessitating innovative methodologies for effective detection and analysis. This master's thesis introduces MAPTER (Mapping APTs through Embedding Representation), a modular framework designed to harness machine learning-based binary code similarity detection. The primary objective of MAPTER is to augment comprehension and enable proactive defense measures against APTs.
